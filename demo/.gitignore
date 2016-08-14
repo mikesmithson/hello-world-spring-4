@@ -40,3 +40,8 @@ Thumbs.db
 *.iml
 atlassian-ide-plugin.xml
 target
+
+# Gradle generated files + output directory #
+#############################################
+.gradle
+build
